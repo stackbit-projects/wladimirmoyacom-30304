@@ -30,3 +30,4 @@ export async function getStaticProps({ params }) {
 }
 
 export default withRemoteDataUpdates(Page);
+

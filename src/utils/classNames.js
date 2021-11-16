@@ -5,3 +5,4 @@ import classnames from 'classnames';
 export default function classNames(...args) {
     return classnames.call(this, ...args) || null;
 }
+
