@@ -5,8 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
+      ¡Hola! Muchas gracias por su interés en trabajar juntos. Por favor
+      complete el formulario de contacto a continuación o envíenos un correo electrónico a
       [info@wladimirmoya.com](mailto:info@wladimirmoya.com).
     form_id: contactForm
     form_action: /thank-you
@@ -14,34 +14,33 @@ sections:
       - input_type: text
         name: name
         label: Name
-        default_value: Your name
+        default_value: Tu nombre
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Tu dirección de correo electrónico
         is_required: true
       - input_type: select
         name: subject
         label: Subject
-        default_value: Please select
+        default_value: seleccione por favor
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Error en el sitio
+          - Patrocinio
+          - Otro
       - input_type: textarea
         name: message
         label: Message
-        default_value: Your message
+        default_value: Tu mensaje
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formulario está almacenando mi información enviada para que pueda ser contactado.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contacto
+  description: Página de contacto
   extra:
     - name: 'og:type'
       value: website
@@ -50,13 +49,13 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Página de contacto
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Página de contacto
 layout: advanced
 ---

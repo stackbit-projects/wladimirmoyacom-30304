@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Wladimir Moya.'
+    title: 'Wladimir Moya'
     content: >-
       Blog personal de Wladimir Moya sobre sus cosas.
     actions:

@@ -61,13 +61,6 @@
                 "style": "icon",
                 "icon": "github",
                 "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/wladimov",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
             }
         ]
     }
