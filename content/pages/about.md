@@ -32,4 +32,4 @@ seo:
 layout: page
 ---
 
-
+Blog personal de Wladimir Moya sobre sus cosas.
