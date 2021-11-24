@@ -9,7 +9,7 @@ sections:
       Blog personal de Wladimir Moya sobre sus cosas.
     actions:
       - label: Let's talk
-        url: /contact
+        url: https://t.me/wladimov
         style: button
   - section_id: latest-posts
     type: section_posts
