@@ -16,6 +16,11 @@
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
+            },
+            {
+                "label": "wladimov",
+                "url": "https://wladimov.com",
+                "style": "link"
             }
         ],
         "logo_img": "/images/favicon.png"

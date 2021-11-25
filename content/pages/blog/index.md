@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Blog
-  description: This is the blog page
+  description: Blog de Wladimir Moya
   extra:
     - name: 'og:type'
       value: website
@@ -14,10 +14,10 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Blog de Wladimir Moya
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: images/blog.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -25,9 +25,9 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Blog de Wladimir Moya
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: images/blog.jpg
       relativeUrl: true
 layout: blog
 ---
