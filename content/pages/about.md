@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: This is a short page about me.
-image: images/conectividad-internet.jpg
+image: images/about.svg
 image_alt: Internet y conectividad
 seo:
   title: About
@@ -17,7 +17,7 @@ seo:
       value: This is a short page about me
       keyName: property
     - name: 'og:image'
-      value: images/conectividad-internet.jpg
+      value: images/about.svg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is a short page about me
     - name: 'twitter:image'
-      value: images/conectividad-internet.jpg
+      value: images/about.svg
       relativeUrl: true
 layout: page
 ---
