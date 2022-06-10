@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Wladimir Moya @wladimov'
+    title: 'Wladimir Moya'
     content: >-
       Blog personal de Wladimir Moya sobre sus cosas.
     actions:
@@ -22,7 +22,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Wladimir Moya
+  title: Wladimir Moya @wladimov
   description: Blog personal de Wladimir Moya sobre sus cosas.
   extra:
     - name: 'og:type'
